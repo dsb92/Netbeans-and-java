@@ -1,0 +1,4 @@
+person1 653 217.0
+person2 69 572.0
+person3 614 537.0
+person4 -16 622.0
